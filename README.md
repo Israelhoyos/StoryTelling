@@ -52,7 +52,9 @@ El storytelling en el análisis de datos es el arte y la técnica de comunicar i
 ## Herramientas Utilizadas
 
 **Herramientas de Visualización**: Tableau, Power BI, Matplotlib, Seaborn, Plotly.
+
 **Herramientas de Dashboarding**: Power BI, Tableau, Dash, Streamlit, Panel.
+
 **Herramientas de Presentación**: Microsoft PowerPoint, Google Slides, Canva.
 
 ## Conclusión
